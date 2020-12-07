@@ -1,7 +1,8 @@
 # CasPratiquesGTD
 exercices to be shown
 
-Parts: Developpement -> Cf. folder developpement + file ReponsesQuestions
+Parts: 
+Developpement -> Cf. folder developpement + file ReponsesQuestions
 
 Developpement, Algorithmes -> Cf. folder developpement + file ReponsesQuestions
 
